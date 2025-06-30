@@ -1,2 +1,2 @@
-# Desafios-de-L-gica-de-Prog.-e-Recursos-em-Python
+# Desafios Lógica de Programaçãoe e Recursos em Py.
 Repo para resolver alguns desafios de lógica de programação e recursos da linguagem.
